@@ -1,0 +1,68 @@
+p{
+  padding:0;
+  margin:0;
+}
+
+.top{
+  background: #1e5cbf;
+  text-align: center;
+  color: white;
+  height: 30%;
+  font-family: 'Open Sans';
+}
+
+#great{
+  padding-top: 20px;
+  font-size: 30px;
+}
+
+#rgb{
+  font-size: 50px;
+}
+
+#game{
+  font-size: 30px;
+}
+
+#message{
+    padding-right: 50px;
+}
+
+.middle{
+  text-align: center;
+  background: white;
+  font-family: 'Open Sans';
+  color: #1e5cbf;
+  line-height: 1.45rem;
+
+}
+
+#newgame{
+  padding-right:50px;
+}
+
+#easy{
+  background: #1e5cbf;
+  color: white;
+  padding-left: 10px;
+  padding-right: 10px;
+}
+
+#hard{
+  padding-left: 10px;
+  padding-right: 10px;
+}
+
+.areaofplay{
+  background-color: black;
+  height: 565px;
+}
+
+#option1,#option2,#option3,#option4,#option5,#option6{
+  height: 150px;
+  width:200px;
+  background-color: white;
+  margin:65px;
+  border-radius: 10px;
+
+}
